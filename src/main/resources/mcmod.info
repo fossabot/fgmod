@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "fgmod",
+        "name": "Fgmod",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["GabrielAguiar"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
